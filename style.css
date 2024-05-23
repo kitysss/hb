@@ -4,7 +4,7 @@ html {
 
 body {
    font-family: "Helvetica Neue", "Luxi Sans", "DejaVu Sans", Tahoma, "Hiragino Sans GB", "Microsoft Yahei", sans-serif;
-   background-image: url(z.jpg);
+   background:block;
    color: #CFEBE4;
 
    font-size: 18px;
